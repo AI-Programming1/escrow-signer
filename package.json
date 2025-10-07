@@ -2,7 +2,7 @@
   "name": "escrow-signer",
   "version": "1.0.0",
   "description": "Secure Bitcoin signer microservice for escrow Worker",
-  "main": "signer-server.js",
+  "main": "escrow-signer.js",
   "type": "module",
   "scripts": {
     "start": "node escrow-signer.js"
@@ -15,5 +15,6 @@
     "express": "^4.21.1"
   }
 }
+
 
 
