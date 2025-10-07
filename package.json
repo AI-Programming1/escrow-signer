@@ -5,7 +5,7 @@
   "main": "signer-server.js",
   "type": "module",
   "scripts": {
-    "start": "node signer-server.js"
+    "start": "node signer.js"
   },
   "dependencies": {
     "bitcoinjs-lib": "^6.1.5",
@@ -15,3 +15,4 @@
     "express": "^4.21.1"
   }
 }
+
